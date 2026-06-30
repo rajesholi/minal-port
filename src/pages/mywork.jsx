@@ -3,29 +3,6 @@ import hero2 from '../assets/hero2.png'
 import me2 from '../assets/me2.png'
 import me from '../assets/me.png'
 
-// const localWorks = [
-//   {
-//     id: 1,
-//     title: 'Creative Web UI',
-//     category: 'Frontend',
-//     description: 'A responsive React website built with animation and clean UI.',
-//     images: [{ image_url: hero2 }],
-//   },
-//   {
-//     id: 2,
-//     title: 'Portfolio Branding',
-//     category: 'Poster Design',
-//     description: 'A brand identity and poster design project with modern visuals.',
-//     images: [{ image_url: me2 }],
-//   },
-//   {
-//     id: 3,
-//     title: 'UX UI Case Study',
-//     category: 'UI/UX',
-//     description: 'A product design showcase combining art direction and usability.',
-//     images: [{ image_url: me }],
-//   },
-// ]
 const localWorks = [
   {
     id: 1,
